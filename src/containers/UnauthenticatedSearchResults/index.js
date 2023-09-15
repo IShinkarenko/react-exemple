@@ -1,0 +1,3 @@
+import UnauthenticatedSearchResults from './UnauthenticatedSearchResults'
+
+export default UnauthenticatedSearchResults

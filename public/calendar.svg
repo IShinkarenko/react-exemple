@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="368" height="177" viewBox="0 0 368 177">
+    <defs>
+        <filter id="prefix__c" width="114.7%" height="174.4%" x="-7.3%" y="-33.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.894117647 0 0 0 0 0.901960784 0 0 0 0 0.91372549 0 0 0 1 0"/>
+        </filter>
+        <filter id="prefix__e" width="114.7%" height="174.4%" x="-7.3%" y="-33.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.894117647 0 0 0 0 0.901960784 0 0 0 0 0.91372549 0 0 0 1 0"/>
+        </filter>
+        <filter id="prefix__g" width="114.7%" height="174.4%" x="-7.3%" y="-33.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.894117647 0 0 0 0 0.901960784 0 0 0 0 0.91372549 0 0 0 1 0"/>
+        </filter>
+        <filter id="prefix__i" width="114.7%" height="174.4%" x="-7.3%" y="-33.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.894117647 0 0 0 0 0.901960784 0 0 0 0 0.91372549 0 0 0 1 0"/>
+        </filter>
+        <filter id="prefix__k" width="118.9%" height="122.2%" x="-9.4%" y="-9.7%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1.5" result="shadowSpreadOuter1"/>
+            <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.727480588 0 0 0 0 0.727480588 0 0 0 0 0.754613904 0 0 0 0.176218313 0"/>
+        </filter>
+        <path id="prefix__a" d="M0 0H368V177H0z"/>
+        <path id="prefix__d" d="M0 1.74C0 .78.788 0 1.746 0h146.23c.965 0 1.746.791 1.746 1.74v26.105c0 .96-.787 1.74-1.746 1.74H1.746c-.964 0-1.746-.791-1.746-1.74V1.74z"/>
+        <path id="prefix__f" d="M0 1.74C0 .78.788 0 1.746 0h146.23c.965 0 1.746.791 1.746 1.74v26.105c0 .96-.787 1.74-1.746 1.74H1.746c-.964 0-1.746-.791-1.746-1.74V1.74z"/>
+        <path id="prefix__h" d="M0 1.74C0 .78.788 0 1.746 0h146.23c.965 0 1.746.791 1.746 1.74v26.105c0 .96-.787 1.74-1.746 1.74H1.746c-.964 0-1.746-.791-1.746-1.74V1.74z"/>
+        <path id="prefix__j" d="M0 1.74C0 .78.788 0 1.746 0h146.23c.965 0 1.746.791 1.746 1.74v26.105c0 .96-.787 1.74-1.746 1.74H1.746c-.964 0-1.746-.791-1.746-1.74V1.74z"/>
+        <rect id="prefix__l" width="169.562" height="144" x=".091" y=".416" rx="2.629"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="#F9F9FC" xlink:href="#prefix__a"/>
+        <g mask="url(#prefix__b)">
+            <g transform="translate(202 20)">
+                <use fill="#000" filter="url(#prefix__c)" xlink:href="#prefix__d"/>
+                <use fill="#FFF" xlink:href="#prefix__d"/>
+                <rect width="45" height="5" x="38" y="8" fill="#EFEFEF" rx="2.5"/>
+                <rect width="22" height="5" x="38" y="17" fill="#EFEFEF" rx="2.5"/>
+                <text fill="#C8DEFF" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".712">
+                    <tspan x="7.18" y="21">14</tspan>
+                </text>
+                <rect width="23" height="11.65" x="121.227" y="9.627" fill="#D4D4D4" rx="5.825"/>
+                <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="6.99" letter-spacing=".277">
+                    <tspan x="128.298" y="18">13</tspan>
+                </text>
+                <g transform="translate(0 38)">
+                    <use fill="#000" filter="url(#prefix__e)" xlink:href="#prefix__f"/>
+                    <use fill="#FFF" xlink:href="#prefix__f"/>
+                    <rect width="48" height="5" x="38" y="8" fill="#EFEFEF" rx="2.5"/>
+                    <rect width="34" height="5" x="38" y="17" fill="#EFEFEF" rx="2.5"/>
+                    <text fill="#C8DEFF" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".712">
+                        <tspan x="7.18" y="21">15</tspan>
+                    </text>
+                    <rect width="23" height="11.65" x="121.227" y="9.627" fill="#D4D4D4" rx="5.825"/>
+                    <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="6.99" letter-spacing=".277">
+                        <tspan x="126.197" y="18">245</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0 76)">
+                    <use fill="#000" filter="url(#prefix__g)" xlink:href="#prefix__h"/>
+                    <use fill="#C8DEFF" xlink:href="#prefix__h"/>
+                    <rect width="58" height="5" x="38" y="8" fill="#FFF" rx="2.5"/>
+                    <rect width="45" height="5" x="38" y="17" fill="#FFF" rx="2.5"/>
+                    <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".712">
+                        <tspan x="7.18" y="21">16</tspan>
+                    </text>
+                    <rect width="23" height="11.65" x="121.227" y="9.627" fill="#227DFF" rx="5.825"/>
+                    <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="6.99" letter-spacing=".277">
+                        <tspan x="128.298" y="18">65</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0 114)">
+                    <use fill="#000" filter="url(#prefix__i)" xlink:href="#prefix__j"/>
+                    <use fill="#C8DEFF" xlink:href="#prefix__j"/>
+                    <rect width="55" height="5" x="38" y="8" fill="#FFF" rx="2.5"/>
+                    <rect width="27" height="5" x="38" y="17" fill="#FFF" rx="2.5"/>
+                    <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".712">
+                        <tspan x="7.18" y="21">17</tspan>
+                    </text>
+                    <rect width="23" height="11.65" x="121.227" y="9.627" fill="#227DFF" rx="5.825"/>
+                    <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="6.99" letter-spacing=".277">
+                        <tspan x="128.298" y="18">11</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g transform="translate(16 20)">
+                <g>
+                    <use fill="#000" filter="url(#prefix__k)" xlink:href="#prefix__l"/>
+                    <use fill="#FFF" xlink:href="#prefix__l"/>
+                </g>
+                <text font-family="Roboto-Regular, Roboto" font-size="6.572" letter-spacing=".26">
+                    <tspan x="14.802" y="18.041" fill="#666">December 2016</tspan>
+                </text>
+                <path fill="#227DFF" d="M56.758 73.922C57.784 75.758 59.747 77 62 77c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6c0 1.06.275 2.057.758 2.922zM101.758 88.922C102.784 90.758 104.747 92 107 92c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6c0 1.06.275 2.057.758 2.922z"/>
+                <path fill="#227DFF" fill-opacity=".25" d="M61 65H170V77H61zM0 80H107V92H0z"/>
+                <g font-family="Roboto-Medium, Roboto Medium">
+                    <g font-size="6.369">
+                        <text fill="#D4D4D4" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x=".147" y="6">27</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="1.957" y="21.613">4</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x=".147" y="36.913">11</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x=".147" y="52.213">18</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x=".147" y="66.577">25</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="22.304" y="66.577">26</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="22.304" y="51.901">19</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="22.304" y="36.913">12</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="24.114" y="21.613">5</tspan>
+                        </text>
+                        <text fill="#D4D4D4" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="22.304" y="6">28</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="44.461" y="66.577">27</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="44.461" y="51.901">20</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="44.461" y="36.601">13</tspan>
+                        </text>
+                        <text fill="#FFF" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="46.271" y="21.613">6</tspan>
+                        </text>
+                        <text fill="#D4D4D4" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="44.899" y="6">29</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="66.619" y="66.577">28</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="66.619" y="51.901">21</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="66.619" y="36.601">14</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="68.428" y="21.613">7</tspan>
+                        </text>
+                        <text fill="#D4D4D4" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="66.619" y="6.625">30</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="88.776" y="66.577">29</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="88.776" y="51.901">22</tspan>
+                        </text>
+                        <text fill="#FFF" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="88.776" y="36.601">15</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="90.586" y="21.613">8</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="90.586" y="6.625">1</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="111.371" y="66.577">30</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="110.933" y="51.901">23</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="110.933" y="36.601">16</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="112.743" y="21.613">9</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="112.743" y="6.625">2</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="133.528" y="66.577">31</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="133.09" y="51.901">24</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="133.09" y="36.601">17</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="133.09" y="21.613">10</tspan>
+                        </text>
+                        <text fill="#666" transform="translate(14.142 33.515) translate(0 18.25)">
+                            <tspan x="134.9" y="6.625">3</tspan>
+                        </text>
+                    </g>
+                    <g fill="#666" font-size="6.859" opacity=".654">
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x=".36" y="6">S</tspan>
+                        </text>
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x="21.272" y="6">M</tspan>
+                        </text>
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x="44.662" y="6">T</tspan>
+                        </text>
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x="65.572" y="6">W</tspan>
+                        </text>
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x="88.977" y="6">T</tspan>
+                        </text>
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x="111.176" y="6">F</tspan>
+                        </text>
+                        <text transform="translate(14.142 33.515) translate(1.493)">
+                            <tspan x="133.303" y="6">S</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect width="9.639" height="9.639" x="130.728" y="12.142" fill="#F7F8FC" rx="4.82"/>
+                <path fill="#8C96AB" d="M137.125 15.313L135.11 17.328 133.094 15.313 132.481 15.926 135.11 18.555 137.739 15.926z" opacity=".262" transform="scale(1 -1) rotate(88 152.645 0)"/>
+                <rect width="9.639" height="9.639" x="145.625" y="12.142" fill="#F7F8FC" rx="4.82"/>
+                <path fill="#8C96AB" d="M152.899 15.313L150.883 17.328 148.868 15.313 148.254 15.926 150.883 18.555 153.512 15.926z" opacity=".251" transform="rotate(-92 150.883 16.934)"/>
+            </g>
+        </g>
+    </g>
+</svg>

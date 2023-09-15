@@ -1,0 +1,10 @@
+[
+  { "label": "Website", "value": "Website" },
+  { "label": "Webpage" ,"value": "Webpage" },
+  { "label": "Video" ,"value": "Video" },
+  { "label": "Audio" ,"value": "Audio" },
+  { "label": "PDF" ,"value": "PDF" },
+  { "label": "Forum Post" ,"value": "ForumPost" },
+  { "label": "Event" ,"value": "Event"},
+  { "label": "Form" ,"value": "Form" }
+]

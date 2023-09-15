@@ -1,0 +1,3 @@
+Name,Address Line 1,Address Line 2,Address Line 3,City,Postal Code,State Or Province,Country,Phone Number,Website Url,Description,Origin ID,Export Id,Social Links,Sources,Relationship Types,Standard Tags
+"ABC Company Inc.",123 Any Street,,,Louisville,40202,Kentucky,United States,(502) 123-4567,https://abc.expandigo.com,This is an example company description.,12345,c4f070da-28d0-4a91-bc67-deebd8d4a1a2,https://www.linkedin.com/company/expandigo,"Tradeshow List,Website Lead","Partners,Clients",VIP
+XYZ Incorporated,456 Another Street,P.O. Box 1234,,Louisville,40202,Kentucky,United States,(502) 123-4567,https://xyz.expandigo.com,This is an example company description.,12346,,https://www.linkedin.com/company/expandigo,"Tradeshow List,Website Lead","Partners,Clients",VIP

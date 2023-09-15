@@ -1,0 +1,6 @@
+[
+  { "label": "Offline", "value": "Offline" },
+  { "label": "Private Network Only", "value": "PrivateNetworkOnly" },
+  { "label": "Public Network", "value": "PublicNetwork" },
+  { "label": "By Request Only", "value": "ByRequestOnly" }
+]

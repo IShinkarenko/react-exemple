@@ -1,0 +1,8 @@
+[
+  { "label": "All Connections", "value": "AllConnections" },
+  { "label": "Following", "value": "Following" },
+  { "label": "Pending", "value": "ConnectionPending" },
+  { "value": "ConnectionRejected", "label": "Rejected" },
+  { "value": "Connected", "label": "Connected" },
+  { "value": "Disconnected", "label": "Disconnected" }
+]

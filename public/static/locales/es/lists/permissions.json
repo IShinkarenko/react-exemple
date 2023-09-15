@@ -1,0 +1,12 @@
+[
+  { "label": "Manage Company Profile", "value": "ManageCompanyProfile" },
+  { "label": "Manage Team Members", "value": "ManageTeamMembers" },
+  { "label": "Manage Channels", "value": "ManageChannels" },
+  { "label": "Manage Pages", "value": "ManagePages" },
+  { "label": "Send Connection Invitations", "value": "SendConnectionInvitations" },
+  { "label": "Accept Connection Invitations", "value": "AcceptConnectionInvitations" },
+  { "label": "Purchase Premium Resources", "value": "PurchasePremiumResources" },
+  { "label": "View Channel Data Insights", "value": "ViewChannelDataInsights" },
+  { "label": "View Channel Connections", "value": "ViewChannelConnections" },
+  { "label": "View Channel Resoures", "value": "ViewChannelResoures" }
+]

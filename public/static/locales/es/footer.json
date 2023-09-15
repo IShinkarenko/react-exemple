@@ -1,0 +1,11 @@
+{
+  "Copyright": "Copyright",
+  "Code is required": "El código es necesario",
+  "Please make sure your password is min 8 characters and contains at least 1 uppercase letter, 1 lowercase letter, 1 special symbol and 1 digit": "Asegúrese de que su contraseña tiene como mínimo 8 caracteres y contiene al menos 1 letra mayúscula, 1 letra minúscula, 1 símbolo especial y 1 dígito",
+  "New password is required": "Se requiere una nueva contraseña",
+  "Reset your password": "Restablecer la contraseña",
+  "Enter Code": "Introduzca el código",
+  "Enter New Password": "Introducir nueva contraseña",
+  "Back to Sign In": "Volver a Inicio de sesión",
+  "Submit": "Enviar"
+}

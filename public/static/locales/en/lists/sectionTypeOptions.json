@@ -1,0 +1,8 @@
+[
+  { "label": "General", "value": "General" },
+  { "label": "Online Presence", "value": "OnlinePresence" },
+  { "label": "Key Performance Indicators", "value": "KeyPerformanceIndicators" },
+  { "label": "Key Contacts", "value": "KeyContacts" },
+  { "label": "Reputation", "value": "Reputation" },
+  { "label": "Affilations", "value": "Affilations" }
+]

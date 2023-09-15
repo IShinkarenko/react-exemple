@@ -1,0 +1,18 @@
+{
+  "Add Logo": "Ajouter un logo",
+  "Logo image should be no more than 10MB": "L'image du logo ne doit pas dépasser 10 Mo",
+  "Add Information": "Ajouter des informations",
+  "Add a name and short description for this organization": "Ajoutez un nom et une courte description pour cette organisation",
+  "The field should contain min - 2, max - 100 characters": "Le champ doit contenir au minimum 2 et au maximum 100 caractères.",
+  "Field is required": "Le champ est obligatoire",
+  "Organization Name": "Nom de l'organisation",
+  "Organization Description": "Description de l'organisation",
+  "Email address is not valid": "L'adresse électronique n'est pas valide",
+  "Invite Members to Your Organization": "Inviter des membres à votre organisation",
+  "Invite as many participants as you want": "Invitez autant de participants que vous le souhaitez",
+  "Create New Company": "Créer une nouvelle entreprise",
+  "Cancel": "Annuler",
+  "Save": "Enregistrer",
+  "General Info": "Informations générales",
+  "Members": "Membres"
+}

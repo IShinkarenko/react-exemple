@@ -1,0 +1,321 @@
+html,
+body {
+  height: 100%;
+  min-height: 100%;
+}
+
+#__next {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: #396dd0;
+}
+
+button {
+  background: none;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+pre {
+  color: #393a34;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  tab-size: 4;
+  hyphens: none;
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+  border: 1px solid #ddd;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+
+blockquote {
+  position: relative;
+  font-style: italic;
+}
+
+blockquote::before {
+  content: '';
+  height: 100%;
+  width: 4px;
+  background-color: #dadada;
+  left: -40px;
+  position: absolute;
+  z-index: 1;
+}
+
+/* Amplify UI Components customization */
+
+amplify-authenticator {
+  position: relative;
+  padding-top: 5vh;
+  margin: auto;
+}
+
+:root {
+  --amplify-primary-color: #74d3d1;
+  --amplify-primary-tint: #2d7d80;
+  --amplify-primary-shade: #74d3d1;
+}
+
+/* end Amplify UI Components customization */
+
+body .easy-edit-hover-on {
+  font-style: normal;
+}
+
+body .easy-edit-wrapper {
+  display: inline-block;
+}
+
+body .easy-edit-inline-wrapper {
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 100%;
+}
+
+@media only screen and (max-width: 767px) {
+  body .easy-edit-inline-wrapper {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+}
+
+
+body .easy-edit-inline-wrapper+div {
+  display: none;
+}
+
+body .easy-edit-component-wrapper {
+  width: 100%;
+}
+
+body .easy-edit-button-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  margin-left: 7px;
+}
+
+@media only screen and (max-width: 767px) {
+  body .easy-edit-button-wrapper {
+    margin-top: 11px;
+    margin-left: 0;
+  }
+}
+
+body .easy-edit-button-wrapper button,
+body .locationeasy-edit-button-wrapper button {
+  outline: none;
+  background: none;
+  border: none;
+  margin-right: 5px;
+  transition: all 0.3s ease;
+  width: 35px;
+  height: 35px;
+  background-color: transparent;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body .easy-edit-button-wrapper button:hover,
+body .locationeasy-edit-button-wrapper button:hover {
+  background-color: #f4f4f4;
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  body .easy-edit-button-wrapper button,
+  body .locationeasy-edit-button-wrapper button {
+    width: 35px;
+    height: 35px;
+    background-color: #f4f4f4;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+body .easy-edit-validation-error {
+  color: #dc0020;
+  position: absolute;
+  bottom: 0;
+  font-size: 0.75rem;
+}
+
+.Toastify__progress-bar--default {
+  background: #74d3d1;
+}
+
+.Toastify__toast--default {
+  color: #333;
+}
+
+.my-masonry-grid {
+  display: flex;
+  margin-left: -15px;
+  width: auto;
+}
+
+.my-masonry-grid_column {
+  padding-left: 15px;
+  background-clip: padding-box;
+}
+
+.my-masonry-grid_column>div {
+  margin-bottom: 15px;
+}
+
+
+
+
+.Draftail-CSVImporter_Importer {
+  height: 25px;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.Draftail-ToolbarGroup {
+  display: flex;
+  align-items: center;
+}
+
+.Draftail-Toolbar {
+  display: flex;
+}
+
+.Draftail-ToolbarButton svg {
+  font-size: 18px;
+}
+
+.Draftail-ToolbarButton {
+  height: 25px;
+  display: flex;
+  align-items: center;
+  width: 25px;
+  padding: 0;
+  justify-content: center;
+  margin-right: 7px;
+}
+
+.Draftail-Editor .public-DraftEditor-content,
+.Draftail-Editor .public-DraftEditorPlaceholder-root {
+  padding: 0.75em 2rem 0.75em 0.75em;
+}
+
+/* reactEasyCrop */
+.reactEasyCrop_Container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  user-select: none;
+  touch-action: none;
+  cursor: move;
+}
+
+.reactEasyCrop_Image,
+.reactEasyCrop_Video {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  will-change: transform;
+  /* this improves performances and prevent painting issues on iOS Chrome */
+}
+
+.reactEasyCrop_CropArea {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0 0 0 9999em;
+  color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.reactEasyCrop_CropAreaRound {
+  border-radius: 50%;
+}
+
+.reactEasyCrop_CropAreaGrid::before {
+  content: ' ';
+  box-sizing: border-box;
+  position: absolute;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  top: 0;
+  bottom: 0;
+  left: 33.33%;
+  right: 33.33%;
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.reactEasyCrop_CropAreaGrid::after {
+  content: ' ';
+  box-sizing: border-box;
+  position: absolute;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  top: 33.33%;
+  bottom: 33.33%;
+  left: 0;
+  right: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+.ReactModal__Overlay {
+  z-index: 9999;
+}
+
+button.flicking-arrow-prev,
+button.flicking-arrow-next {
+  background-color: #fff;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  z-index: 100;
+  width: 50px;
+  height: 50px;
+  box-shadow: 0 0 0 1px rgb(0 0 0 / 4%), 0 4px 8px 0 rgb(0 0 0 / 20%);
+}
+
+button.flicking-arrow-prev:hover,
+button.flicking-arrow-next:hover {
+  background-color: #fff;
+  z-index: 100;
+}
+
+
+.flicking-arrow-prev::before,
+.flicking-arrow-prev::after,
+.flicking-arrow-next::before,
+.flicking-arrow-next::after {
+  display: none;
+}

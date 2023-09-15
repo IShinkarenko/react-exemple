@@ -1,0 +1,5 @@
+[
+  { "label": "Owner", "value": "Owner" },
+  { "label": "Collaborator", "value": "Collaborator" },
+  { "label": "Channel Subscriber", "value": "ChannelSubscriber" }
+]
